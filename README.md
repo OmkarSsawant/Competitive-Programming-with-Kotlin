@@ -1,2 +1,2 @@
 # Competitive-Programming-with-Kotlin
-Kotlin competitive programs are solved here 
+competitive programs are solved here generally using kotlin and java , sometimes cpp
